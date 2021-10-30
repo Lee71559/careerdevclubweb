@@ -633,7 +633,7 @@ strong {
 }
 
 .social-icon-link {
-  color: var(--dark-color);
+  color: var(--title-color);
   font-size: 1rem;
   display: inline-block;
   vertical-align: top;
